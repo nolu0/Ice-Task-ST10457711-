@@ -1,0 +1,23 @@
+body {
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-color: hsl(33, 100%, 88%);
+    border: solid medium black;
+    border-radius: 35px;
+    padding: 25px;
+    margin: 15px;
+
+}
+#box1{
+    background-color: blueviolet;
+    height: 400px;
+    float: left;
+}
+#box2,
+#box3 {
+    float: right;
+
+}
